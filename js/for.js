@@ -54,3 +54,5 @@ for (let i = nuo; i <= iki; i++){
 const rez = `Suma nuo ${nuo} iki ${iki} yra ${suma}.`
 
 console.log(rez);
+
+
